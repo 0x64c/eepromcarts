@@ -1,5 +1,4 @@
 EESchema Schematic File Version 2
-LIBS:supervision-rescue
 LIBS:power
 LIBS:device
 LIBS:switches
@@ -381,7 +380,7 @@ F 3 "" H 2850 2400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SV_CART-RESCUE-supervision U2
+L SV_CART U2
 U 1 1 5A2D579C
 P 6650 1950
 F 0 "U2" H 6650 2050 60  0000 C CNN
