@@ -11,7 +11,7 @@ A SV cartridge design is complete with support for:
 ## Sega Megadrive
 
 A Megadrive cartridge is almost complete, with support for:
-* 2Mbit ROM size
+* 4Mbit ROM size
 * 256Kbit FRAM
 
 ## Sega Master System
