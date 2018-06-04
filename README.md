@@ -36,3 +36,9 @@ A SFC cartridge is planned with support for:
 * RTC?
 * CIC (donor IC)
 * Some expansion IC's
+
+## EEPROM Writer
+
+A cheap, slow EEPROM reader/writer:
+* Program/read one PLCC32 EEPROM at once
+* Don't build this if you already have a real programmer, or an arduino and some shift registers
