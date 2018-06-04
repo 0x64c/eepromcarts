@@ -10,9 +10,16 @@ A SV cartridge design is complete with support for:
 
 ## Sega Megadrive
 
-A Megadrive cartridge is almost complete, with support for:
+A Megadrive cartridge design is complete, with support for:
 * 4Mbit ROM size
 * 256Kbit FRAM
+
+## GameBoy
+
+A GB cartridge design is complete with support for:
+* 256Kbit FRAM
+* RTC
+* Bank switching through CPLD
 
 ## Sega Master System
 
@@ -20,14 +27,6 @@ A SMS cartridge is planned with support for:
 * 256Kbit FRAM
 * Bank switching
 * 1-4Mbit rom size
-
-## GameBoy
-
-A GB cartridge is planned with support for:
-* 256Kbit FRAM
-* RTC
-* Bank switching?
-* 1-4Mbit ROM size?
 
 ## Super Famicom
 
